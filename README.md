@@ -1,0 +1,1 @@
+MPhil project utilizing radial velocity statistics of cosmic voids to probe interacting dark energy within the Type 3 model. Void catalogs were generated through N-body simulations using the VIDE toolkit, and custom scripts were developed to extract data from these catalogs and compute void velocities.
